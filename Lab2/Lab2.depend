@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1554304969 source:/home/kirill/Programming/ConLinux/Lab2/main.c
+	<stdio.h>
+	<stdlib.h>
+
