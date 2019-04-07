@@ -16,6 +16,7 @@ int main()
     //Allocate static memory
     int* pSource;
     int* pDestination;
+    // rand comment
 
 
     pSource = (int*)malloc(NUM_BYTES);
